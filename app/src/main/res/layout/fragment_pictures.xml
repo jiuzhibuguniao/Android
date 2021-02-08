@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/birdview"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/bird"
+        ></ImageView>
+
+    <ImageView
+        android:id="@+id/fishview"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/fish"
+        ></ImageView>
+
+
+    <ImageView
+        android:id="@+id/cowview"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/cow"
+        ></ImageView>
+
+    <ImageView
+        android:id="@+id/catview"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/cat"
+        ></ImageView>
+
+    <ImageView
+        android:id="@+id/dogview"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/dog"
+        ></ImageView>
+
+    <ImageView
+        android:id="@+id/horseview"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/horse"
+        ></ImageView>
+
+</LinearLayout>
